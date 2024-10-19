@@ -1,0 +1,831 @@
+fileFormatVersion: 2
+guid: 5093c2fb5d085c345b7ea0ea50301f4b
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Nintendo Switch - Super Mario Maker 2 - Spiny NSMBU (1)_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 312.75
+        width: 120.22222
+        height: 104.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e90dbcc53bb4b7846b447e3c0c356256
+      internalID: 916791067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Super Mario Maker 2 - Spiny NSMBU (1)_1
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 312.75
+        width: 120.22222
+        height: 104.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e06bf5cfef3aee4da56896844ad23b9
+      internalID: 274510811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Super Mario Maker 2 - Spiny NSMBU (1)_2
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 312.75
+        width: 120.22222
+        height: 104.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 299d256080072f744b11e2a6b10d2efd
+      internalID: -1129381907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Super Mario Maker 2 - Spiny NSMBU (1)_3
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 312.75
+        width: 120.22222
+        height: 104.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e880aa1ceb3f7af46904227a6f7abdd1
+      internalID: 1277090704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Super Mario Maker 2 - Spiny NSMBU (1)_4
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 312.75
+        width: 120.22222
+        height: 104.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6011ced0fa979dc4e99f4c9b0eff8d2d
+      internalID: -1463701577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Super Mario Maker 2 - Spiny NSMBU (1)_5
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 312.75
+        width: 120.22222
+        height: 104.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53ee829ee2fa23d4c9fc41cbe4d341c8
+      internalID: -198824819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Super Mario Maker 2 - Spiny NSMBU (1)_6
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 312.75
+        width: 120.22222
+        height: 104.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 403873d703920924ba01d510797d499d
+      internalID: -2145136892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Super Mario Maker 2 - Spiny NSMBU (1)_7
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 312.75
+        width: 120.22222
+        height: 104.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c080cbd06ab490947b654b530cea4f59
+      internalID: -1953643071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Super Mario Maker 2 - Spiny NSMBU (1)_8
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 312.75
+        width: 120.22222
+        height: 104.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb607fbe6f262e548a357d8cdb9f9742
+      internalID: -1860987864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Super Mario Maker 2 - Spiny NSMBU (1)_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 208.75
+        width: 120.22222
+        height: 104.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8b741e6843a2674ca03796f0516086d
+      internalID: 542689559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Super Mario Maker 2 - Spiny NSMBU (1)_10
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 208.75
+        width: 120.22222
+        height: 104.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41846c028c6a42b428a7689e64273727
+      internalID: 719977728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Super Mario Maker 2 - Spiny NSMBU (1)_11
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 208.75
+        width: 120.22222
+        height: 104.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef6f410d464787d4b9977f59082d909b
+      internalID: -297610227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Super Mario Maker 2 - Spiny NSMBU (1)_12
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 208.75
+        width: 120.22222
+        height: 104.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f94814dc5604a642bb8ef868043152d
+      internalID: 1630637731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Super Mario Maker 2 - Spiny NSMBU (1)_13
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 208.75
+        width: 120.22222
+        height: 104.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84597d90b15f1eb4abf81b779d217339
+      internalID: -387110896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Super Mario Maker 2 - Spiny NSMBU (1)_14
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 208.75
+        width: 120.22222
+        height: 104.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 823a50cc65d038a47995805eff17fea5
+      internalID: -256971678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Super Mario Maker 2 - Spiny NSMBU (1)_15
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 208.75
+        width: 120.22222
+        height: 104.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c07f7cf4c308ee44787b30b1b6306ff5
+      internalID: -828042352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Super Mario Maker 2 - Spiny NSMBU (1)_16
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 208.75
+        width: 120.22222
+        height: 104.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27d1af0d840640640ab8a149f0b5cf46
+      internalID: -661057027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Super Mario Maker 2 - Spiny NSMBU (1)_17
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 208.75
+        width: 120.22222
+        height: 104.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 795bde978514f91419bee9de8ee1f5e0
+      internalID: -1511782170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Super Mario Maker 2 - Spiny NSMBU (1)_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 104.75
+        width: 120.22222
+        height: 104.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ab3114eaab239d42b647c35d933960d
+      internalID: -1158109342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Super Mario Maker 2 - Spiny NSMBU (1)_19
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 104.75
+        width: 120.22222
+        height: 104.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb80fc41d51eae7498befc36dc1412b8
+      internalID: -1052386214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Super Mario Maker 2 - Spiny NSMBU (1)_20
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 104.75
+        width: 120.22222
+        height: 104.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b48b6e9190f900479f30d18706f12c5
+      internalID: -297180474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Super Mario Maker 2 - Spiny NSMBU (1)_21
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 104.75
+        width: 120.22222
+        height: 104.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 775540470c67ce94f80495859dcbf0cb
+      internalID: 1873647641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Super Mario Maker 2 - Spiny NSMBU (1)_22
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 104.75
+        width: 120.22222
+        height: 104.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82d10b90031a0f14cb8efa27c5223f96
+      internalID: 344008008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Super Mario Maker 2 - Spiny NSMBU (1)_23
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 104.75
+        width: 120.22222
+        height: 104.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4deac61cdf18f9649bd0ea41a4d3376f
+      internalID: 1272528486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Super Mario Maker 2 - Spiny NSMBU (1)_24
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 104.75
+        width: 120.22222
+        height: 104.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b46d067bfe29b5d4eace56c8960fa0e0
+      internalID: -434515873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Super Mario Maker 2 - Spiny NSMBU (1)_25
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 104.75
+        width: 120.22222
+        height: 104.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e55af3b223118364d9d8ae131b2dec7b
+      internalID: -1017885548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Super Mario Maker 2 - Spiny NSMBU (1)_26
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 104.75
+        width: 120.22222
+        height: 104.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f700795ea3c1394781a32538eaf60cc
+      internalID: 843251853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Super Mario Maker 2 - Spiny NSMBU (1)_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0.75
+        width: 120.22222
+        height: 104.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2c12222394f8454c9579e1aec575328
+      internalID: -584811331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Super Mario Maker 2 - Spiny NSMBU (1)_28
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 0.75
+        width: 120.22222
+        height: 104.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a90f8fc7a31c3da478ff03f75791ecdc
+      internalID: 1640030966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Super Mario Maker 2 - Spiny NSMBU (1)_29
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 0.75
+        width: 120.22222
+        height: 104.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1b1296588a28e0468979628ac7eeb1b
+      internalID: 2103230287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Super Mario Maker 2 - Spiny NSMBU (1)_30
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 0.75
+        width: 120.22222
+        height: 104.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8259342977fea4b4ea0cfb5ba98cfb2c
+      internalID: -636441437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Super Mario Maker 2 - Spiny NSMBU (1)_31
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 0.75
+        width: 120.22222
+        height: 104.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4df45ff7d458c704ea6011dcad2c0a05
+      internalID: -703238843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Nintendo Switch - Super Mario Maker 2 - Spiny NSMBU (1)_0: 916791067
+      Nintendo Switch - Super Mario Maker 2 - Spiny NSMBU (1)_1: 274510811
+      Nintendo Switch - Super Mario Maker 2 - Spiny NSMBU (1)_10: 719977728
+      Nintendo Switch - Super Mario Maker 2 - Spiny NSMBU (1)_11: -297610227
+      Nintendo Switch - Super Mario Maker 2 - Spiny NSMBU (1)_12: 1630637731
+      Nintendo Switch - Super Mario Maker 2 - Spiny NSMBU (1)_13: -387110896
+      Nintendo Switch - Super Mario Maker 2 - Spiny NSMBU (1)_14: -256971678
+      Nintendo Switch - Super Mario Maker 2 - Spiny NSMBU (1)_15: -828042352
+      Nintendo Switch - Super Mario Maker 2 - Spiny NSMBU (1)_16: -661057027
+      Nintendo Switch - Super Mario Maker 2 - Spiny NSMBU (1)_17: -1511782170
+      Nintendo Switch - Super Mario Maker 2 - Spiny NSMBU (1)_18: -1158109342
+      Nintendo Switch - Super Mario Maker 2 - Spiny NSMBU (1)_19: -1052386214
+      Nintendo Switch - Super Mario Maker 2 - Spiny NSMBU (1)_2: -1129381907
+      Nintendo Switch - Super Mario Maker 2 - Spiny NSMBU (1)_20: -297180474
+      Nintendo Switch - Super Mario Maker 2 - Spiny NSMBU (1)_21: 1873647641
+      Nintendo Switch - Super Mario Maker 2 - Spiny NSMBU (1)_22: 344008008
+      Nintendo Switch - Super Mario Maker 2 - Spiny NSMBU (1)_23: 1272528486
+      Nintendo Switch - Super Mario Maker 2 - Spiny NSMBU (1)_24: -434515873
+      Nintendo Switch - Super Mario Maker 2 - Spiny NSMBU (1)_25: -1017885548
+      Nintendo Switch - Super Mario Maker 2 - Spiny NSMBU (1)_26: 843251853
+      Nintendo Switch - Super Mario Maker 2 - Spiny NSMBU (1)_27: -584811331
+      Nintendo Switch - Super Mario Maker 2 - Spiny NSMBU (1)_28: 1640030966
+      Nintendo Switch - Super Mario Maker 2 - Spiny NSMBU (1)_29: 2103230287
+      Nintendo Switch - Super Mario Maker 2 - Spiny NSMBU (1)_3: 1277090704
+      Nintendo Switch - Super Mario Maker 2 - Spiny NSMBU (1)_30: -636441437
+      Nintendo Switch - Super Mario Maker 2 - Spiny NSMBU (1)_31: -703238843
+      Nintendo Switch - Super Mario Maker 2 - Spiny NSMBU (1)_4: -1463701577
+      Nintendo Switch - Super Mario Maker 2 - Spiny NSMBU (1)_5: -198824819
+      Nintendo Switch - Super Mario Maker 2 - Spiny NSMBU (1)_6: -2145136892
+      Nintendo Switch - Super Mario Maker 2 - Spiny NSMBU (1)_7: -1953643071
+      Nintendo Switch - Super Mario Maker 2 - Spiny NSMBU (1)_8: -1860987864
+      Nintendo Switch - Super Mario Maker 2 - Spiny NSMBU (1)_9: 542689559
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
